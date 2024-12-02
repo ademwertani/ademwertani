@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">🎓 3rd year engineering student at ESPIRIT (Ecole Supérieure Privée d'Ingénierie et de Technologies) 🔍 Currently completing my final internship at Kian Technologie.</h3>
+<h3 align="center">🎓  Recently graduated engineer from ESPRIT.</h3>
 
 <img align="right" alt="coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
